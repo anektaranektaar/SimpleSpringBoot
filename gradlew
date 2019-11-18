@@ -3,7 +3,7 @@
 ##############################################################################
 ##
 ##  Gradle start up script for UN*X
-##
+##  Şimdi bu zımbırtıyı ben açamadım ama muhtemelen çalışıyodur
 ##############################################################################
 
 # Attempt to set APP_HOME
